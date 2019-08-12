@@ -1,0 +1,40 @@
+.col-sm-4{
+font-family: 'Franklin Gothic Medium'
+}
+
+.col-sm-8{
+  font-family: 'Franklin Gothic Medium';
+  align-content: center;
+  justify-content: center
+}
+
+.jumbotron{
+  font-family: 'Franklin Gothic Medium';
+  background-image: url("sp.png");
+  background-size: 50%;
+  color: antiquewhite;
+  height: 50%
+}
+
+img {
+  margin: 5px;
+  border-radius: 5px;
+  border-color: black;
+  border-width: 5px;
+  align-content: center
+  
+}
+
+.jumbotron.text-center{
+  height: 175px
+}
+
+.exampleVitae{
+  align-content: center;
+  justify-content: center;
+}
+
+.vitae{
+    align-content: center;
+  justify-content: center;
+}
